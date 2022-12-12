@@ -1,27 +1,5 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
 
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
@@ -57,11 +35,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Personal Portfolio Project] <a name="about-project"></a>
+# 📖 [Awesome Books] <a name="about-project"></a>
 
-> I have built a portfolio using HTML, CSS and JavaScript uing a design from a Figma template.
+> I have built a this project using HTML, CSS and JavaScript .
 
-**[your_project__name]** is a...
+**[Awesome Books]** 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -83,19 +61,11 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[Mobile Menu]**
-- **[Animated Buttons]**
-- **[Responsive form]**
+- **[js project ]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://danielsafari143.github.io /)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,7 +96,7 @@ Example command:
 
 Clone this repository to your desired folder:
 
-**``git clone https://github.com/danielsafari143/portfolio-mobile-layout.git``**
+**``git clone https://github.com/danielsafari143/jsCourses.git``**
 
 
 <!--
@@ -194,6 +164,11 @@ Example:
 - Twitter: [@danielsafari143](https://twitter.com/danielsafari143)
 - LinkedIn: [danielsafari143](https://www.linkedin.com/in/danielsafari143/)
 
+👤 **Author2**
+
+- GitHub: [@Thinus01](@Thinus01)
+- Twitter: [@twitter](https://twitter.com/thinus_v_d_v)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/thinus-van-de-venter-99aa26203/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
