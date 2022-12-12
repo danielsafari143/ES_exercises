@@ -164,12 +164,6 @@ Example:
 - Twitter: [@danielsafari143](https://twitter.com/danielsafari143)
 - LinkedIn: [danielsafari143](https://www.linkedin.com/in/danielsafari143/)
 
-👤 **Author2**
-
-- GitHub: [@Thinus01](@Thinus01)
-- Twitter: [@twitter](https://twitter.com/thinus_v_d_v)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/thinus-van-de-venter-99aa26203/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
